@@ -5,3 +5,4 @@ How it works:
  1. Clone the application
  2. Build and Restore the Nuget Packages (If needed)
  3. You can run the application.
+ 
